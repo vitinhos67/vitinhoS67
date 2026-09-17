@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Victor 👋</h1>
+<h1 align="center">Victor</h1>
 
 <p align="center">
 Desenvolvedor Full Stack com foco em backend, atuando com sistemas financeiros e educacionais — e construindo meus próprios produtos nas horas vagas.
@@ -12,53 +12,32 @@ Desenvolvedor Full Stack com foco em backend, atuando com sistemas financeiros e
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://victorsanttos.com">victorsanttos.com</a>
 </p>
 
 ---
 
-## 💻 Sobre mim
+### Sobre
 
-- 🔧 Full Stack, com foco em **backend** — cerca de 3 anos de experiência
-- 🏦 Atuo em **fintech** (Dimensa), já tendo trabalhado em aplicações críticas de backoffice com microsserviços processando milhares de operações financeiras diárias
-- 🎓 Também já atuei em **EdTech** (CRM Educacional, na Rubeus)
-- 🚀 Fora do trabalho, construo meus próprios produtos: **Piteuzinho** e **Drivou**
-- 📍 Muriaé, MG — Brasil
+Full Stack com foco em backend, cerca de 3 anos de experiência. Atuo em fintech (Dimensa), com passagem por aplicações críticas de backoffice processando microsserviços financeiros em alto volume. Também já atuei em EdTech (CRM Educacional, Rubeus). Muriaé, MG.
 
 ---
 
-## 🚀 Projetos em destaque
+### Projetos em destaque
 
-### 🍔 [Piteuzinho](https://piteuzinho.com.br)
+**[Piteuzinho](https://piteuzinho.com.br)**
+Cardápio digital e plataforma de delivery local para pequenos negócios, com apresentação de produtos em formato de Reels e notificações via WhatsApp.
+Status: fase ativa de lançamento e monetização. Arquitetura multi-tenant self-hosted na AWS (Docker, Supervisor, MySQL, WebSocket, Baileys). Inclui sistema próprio de feature-gating e billing com integração Stripe.
 
-Cardápio digital e plataforma de delivery local para pequenos negócios (restaurantes, padarias, etc.), com apresentação de produtos em formato tipo Reels e notificações de pedido via WhatsApp.
-
-- **Status:** em fase ativa de lançamento e monetização, dos primeiros clientes pagantes
-- **Arquitetura:** multi-tenant self-hosted na AWS
-- **Stack:** Docker, Supervisor, MySQL, WebSocket, Baileys (API não-oficial do WhatsApp)
-- **Destaques técnicos:**
-  - Sistema de feature-gating e billing (painel admin, integração Stripe, toggles por feature, acesso de cortesia, route guards dinâmicos ligados a uma tabela de features no backend)
-  - Fluxo de pedido redesenhado: acesso autenticado para dados sensíveis (endereços, histórico), mantendo o pedido em si totalmente sem fricção e sem senha, com auto-preenchimento de endereço via UUID persistente de dispositivo
+**[Drivou](https://drivou.com)**
+Marketplace que conecta alunos que querem aprender a dirigir com instrutores autônomos e autoescolas.
+Status: MVP funcional, validado publicamente no Muriaé Tech Connect, Pré-Incubação concluída no CenTev/UFV, candidatura em andamento no tecnoPARQ. Agendamento, pagamento retido até a aula e verificação documental do instrutor.
 
 ---
 
-### 🚗 [Drivou](https://drivou.com)
+### Stack
 
-Marketplace que conecta alunos que querem aprender a dirigir com instrutores autônomos e autoescolas — resolvendo um problema hoje resolvido só no boca a boca.
-
-- **Status:** MVP funcional, com validação pública (Muriaé Tech Connect) e Pré-Incubação concluída no CenTev/UFV; candidatura em andamento na Incubação do tecnoPARQ
-- **Como funciona:** o aluno busca instrutores por perto, com preço e avaliação visíveis; agenda e paga com o valor retido no app até a aula acontecer; instrutor gerencia agenda, pacotes e recebimento em um só lugar
-- **Diferencial:** verificação documental (CNH, antecedentes, credencial) antes de qualquer aula
-- 📱 Instagram: [@appdrivou](https://instagram.com/appdrivou)
-
----
-
-## 🛠️ Stack principal
-
-`PHP` · `Laravel` · `CodeIgniter` · `Node.js` · `Vue.js` · `Angular` · `React` · `React Native` · `Docker` · `AWS` · `MySQL` · `Stripe`
-
----
-
-## 📫 Contato
-
-Fique à vontade para abrir uma issue ou entrar em contato pelos projetos acima.
+PHP · Laravel · CodeIgniter · Node.js · Vue.js · Angular · React · React Native · Docker · AWS · MySQL · Stripe
