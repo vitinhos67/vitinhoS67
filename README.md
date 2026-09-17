@@ -14,7 +14,7 @@ Desenvolvedor Full Stack com foco em backend, arquitetura de sistemas e integra�
 
 ### Sobre
 
-Full Stack com foco em backend, atuando na modernização de sistemas, automação de processos e resolução de problemas complexos de negócio. Atualmente na Dimensa (Evertec Brasil), com passagem por aplicações críticas de backoffice em alto volume transacional. Também já atuei em EdTech (Rubeus Tecnologia). Muriaé, MG.
+Full Stack com foco em backend, atuando na modernização de sistemas, automação de processos e resolução de problemas complexos de negócio. Atualmente na Dimensa (Evertec Brasil), com passagem por aplicações críticas de backoffice em alto volume transacional. Também já atuei em EdTech (Rubeus Tecnologia). Muriaé, MG. Formado em Análise e Desenvolvimento de Sistemas pela FAMINAS.
 
 ---
 
