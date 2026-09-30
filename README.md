@@ -1,8 +1,3 @@
-<h1 align="center">Victor Santos</h1>
-
-<p align="center">
-Desenvolvedor Full Stack com foco em backend, arquitetura de sistemas e integração entre serviços
-</p>
 
 <p align="center">
 <a href="https://victorsanttos.com">victorsanttos.com</a> ·
