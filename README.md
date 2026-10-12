@@ -19,7 +19,7 @@ Full Stack com foco em backend, atuando na modernização de sistemas, automaç�
 Plataforma SaaS multi-tenant de cardápio digital e automação de pagamentos, hoje em uso diário por restaurantes locais — arquitetada e colocada em produção sozinho, do design à infraestrutura. Infraestrutura própria de CI/CD (Jenkins), Docker, Cloudflare e AWS.
 
 **[Drivou](https://drivou.com)**
-Marketplace que conecta alunos que querem aprender a dirigir com instrutores autônomos e autoescolas. MVP funcional, validado publicamente no Muriaé Tech Connect, Pré-Incubação concluída no CenTev/UFV, candidatura em andamento no tecnoPARQ.
+Marketplace que conecta alunos que querem aprender a dirigir com instrutores autônomos e autoescolas. MVP funcional, validado publicamente no Muriaé Tech Connect, Pré-Incubação em andamento no CenTev/UFV, tecnoPARQ.
 
 ---
 
